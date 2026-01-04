@@ -1,4 +1,4 @@
-# Portfolio
+ # Portfolio
 
 Overview of selected personal projects.
 
@@ -16,3 +16,5 @@ All repositories listed below are private.
 - **client-website-project**  
   Website developed for a client.  
   Repository kept private for confidentiality reasons.
+
+Discord : Kuriozz
